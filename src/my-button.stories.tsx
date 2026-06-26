@@ -4,6 +4,7 @@ import { MyButton } from './my-button'
 const meta = preview.meta({
   title: 'MyButton',
   component: MyButton,
+  tags: ['autodocs'],
 })
 
 /**
