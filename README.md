@@ -7,13 +7,6 @@ with `.extend()` are not recognised as CSF factory stories by `enrichCsfStory`.
 
 ```bash
 yarn install
-yarn build-storybook
-# Open storybook-static/index.html, navigate to MyButton → Secondary → Docs
-```
-
-Or with the dev server:
-
-```bash
 yarn storybook
 # Open http://localhost:6006/?path=/docs/mybutton--secondary
 ```
